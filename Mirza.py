@@ -40,7 +40,7 @@ except ImportError:
 
     time.sleep(1)
 
-    os.system('Then type: python2 Boss')
+    os.system('Then type: python2 Mirza.py')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 
@@ -190,7 +190,7 @@ logo1 = """
 
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 
-\033[1;93m➣ \033[1;95m NEVER GIVE UP ..
+\033[1;93m➣ \033[1;96mNEVER GIVE UP ..
 
 \033[1;94m•••••••••••••••••••••••••••••••••••••••••••••••      
 
