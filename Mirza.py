@@ -40,7 +40,7 @@ except ImportError:
 
     time.sleep(1)
 
-    os.system('Then type: python2 Mirza.py')
+    os.system('Then type: python2 Boss')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 
