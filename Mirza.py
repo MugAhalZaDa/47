@@ -1,3 +1,4 @@
+
 # Author Yunus#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
@@ -22,7 +23,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 boss')
+    os.system('Then type: python2 Mirza.py')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -39,8 +40,8 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 
 def keluar():
-	print 'Thanks.'
-	os.sys.exit()
+	              print 'Thanks.'
+	              os.sys.exit()
 
 def acak(b):
     w = 'ahtdzjc'
@@ -81,24 +82,24 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;91m███    ███ ██████  
-\033[1;92m████  ████ ██   ██ 
-\033[1;93m██ ████ ██ ██████  
-\033[1;94m██  ██  ██ ██   ██ 
-\033[1;95m██      ██ ██   ██ 
+\033[1;91m██            ██    █   ████    ██████              ██
+\033[1;92m█ █         █  █          █       █              █               █     █
+\033[1;93m█    █   █     █    █   █     █           █                 █           █
+\033[1;94m█       █        █    █   █  █         █                    ███████
+\033[1;95m█                  █    █   █     █     ██████     █                  █
                    
                    
 
-\033[1;93m              JAY FREE FIRE :)) 
+\033[1;93m              TRY AGAIN AND AGAIN TELL YOU SUCCESS :)) 
 \033[1;95m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;94m➣ \033[1;96mHATERX FEEL ON RAKHO MR ZEEKO (^o^) ..
+\033[1;94m➣ \033[1;96mHATERX FEEL ON RAKHO MUGHAL ZADA (^o^) ..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;92mDEVOLPER   :            MR ZEEKO
-\033[1;91m➣ \033[1;92mFACEBOOK   :            ZULFIQAR BALOCH
-\033[1;93m➣ \033[1;92mWHATSAPP   :            +923403233915 
-\033[1;96m➣ \033[1;92mGITHUB     :                MRZEEKO404
+\033[1;92m➣ \033[1;92mDEVOLPER   :            MUGHAL ZADA
+\033[1;91m➣ \033[1;92mFACEBOOK   :            HASSNAIN MŪGHAL
+\033[1;93m➣ \033[1;92mWHATSAPP   :            +923213230513 
+\033[1;96m➣ \033[1;92mGITHUB     :                MUGHALZADA47
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;92m➣ \033[1;96mNOTE IDS JUST NOW ON KARO ..
+\033[1;92m➣ \033[1;96mNOTE IDS JUST NOW ON KARO .. 
 \033[1;97mNOTE MULTIPLE SEARCH PLY STORE WAHA SE ON KARO             
 """
 
@@ -107,52 +108,53 @@ print  """
 logo1 = """
 
 
-\033[1;91m'########:'########:'########:'##:::'##::'#######::
-\033[1;93m..... ##:: ##.....:: ##.....:: ##::'##::'##.... ##:
-\033[1;92m:::: ##::: ##::::::: ##::::::: ##:'##::: ##:::: ##:
-\033[1;94m::: ##:::: ######::: ######::: #####:::: ##:::: ##:
-\033[1;95m: ##::::: ##...:::: ##...:::: ##. ##::: ##:::: ##:
-\033[1;96m :##:::::: ##::::::: ##::::::: ##:. ##:: ##:::: ##:
+\033[1;91m██            ██    █   ████    ██████              ██
+\033[1;93m█ █         █  █          █       █              █               █     █
+\033[1;92m█    █   █     █    █   █     █           █                 █           █
+\033[1;94m█       █        █    █   █  █         █                    ███████
+\033[1;95m█                  █    █   █     █     ██████     █                  █
+\033[1;96m
  \033[1;97m :########: ########: ########: ##::. ##:. #######::
 ........::........::........::..::::..:::.......:::　 
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;93m➣ \033[1;96mMR ZEEKO SISTIM FUCKER ..
+\033[1;93m➣ \033[1;96mNEVER GIVE UP..
 \033[1;94m•••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;95m➣ DEVOLPER     :        MR ZEEKO
-\033[1;96m➣ FACEBOOK     :        ZULFIQAR BALOCH
-\033[1;94m➣ GITHUB       :            MRZEEKO404
-\033[1;97m➣ WHATAAPP     :        +923403233915
+\033[1;95m➣ DEVOLPER     :        MUGHAL ZADA
+\033[1;96m➣ FACEBOOK     :        HASANAIN MŪGHAL
+\033[1;94m➣ GITHUB           :            MUGHALZADA47
+\033[1;97m➣ WHATAAPP    :        +923213230513
 \033[1;92m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;93m➣ \033[1;96mYOU CAN COPY ME BUT YOU CAN'T BE ME..
 \033[1;94m•••••••••••••••••••••••••••••••••••••••••••••••      
 """
 logo2 = """
-\033[1;91mBALOCH KING OF BALOCHISTAN
-\033[1;92m  ____          _      ____   _____ _    _ 
-\033[1;93m |  _ \   /\   | |    / __ \ / ____| |  | |
-\033[1;94m | |_) | /  \  | |   | |  | | |    | |__| |
-\033[1;95m |  _ < / /\ \ | |   | |  | | |    |  __  |
- \033[1;96m| |_) / ____ \| |___| |__| | |____| |  | |
- \033[1;97m|____/_/    \_\______\____/ \_____|_|  |_|
+\033[1;91mWE GO THROUGH WHAT WE GO THROUGH
+\033[1;92m ██            ██    █   ████    ██████              ██
+\033[1;93m █ █         █  █          █       █              █               █     █
+\033[1;94m █    █   █     █    █   █     █           █                 █           █
+\033[1;95m █       █        █    █   █  █         █                    ███████
+ \033[1;96m█                  █    █   █     █     ██████     █                  █
+ \033[1;97m☣___________________________________________________☣
+ 
                                            
                                            
 
-\033[1;92m➣      FUCK YOUR SISTIM MARK ZUCKERBERG
+\033[1;92m➣      ☠. IS IT YOURE DREAM YOU CAN DO IT.☠
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••   
 \033[1;96m➣ \033[1;93mHATERZ FEEL ON KARLO ...
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••    
-\033[1;91m➣ \033[1;92mAUTHOR    :   \033[1;97mMughalzada
-\033[1;92m➣ \033[1;93mFACEBOOK  :   \033[1;97mZULFIQAR BALOCH
-\033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97m+923403233915
-\033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97mMRZEEKO404
-\033[1;96m➣ \033[1;92mLEGAND PLYEER       :   \033[1;97mQURBAN BALOCH
+\033[1;91m➣ \033[1;92mAUTHOR    :   \033[1;97mMUGHAL ZADA
+\033[1;92m➣ \033[1;93mFACEBOOK  :   \033[1;97mHASSNAIN MŪGHAL
+\033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97m+923213230513
+\033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97mMUGHALZADA47
+\033[1;96m➣ \033[1;92mLEGAND PLYEER       :   \033[1;97m NEVER GIVE UP
 \033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m1.0.8
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ \033[1;93mCP IDS JUST NOW OPEN..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••     
 """
-CorrectUsername = "MR"
-CorrectPassword = "ZEEKO"
+CorrectUsername = "MUGHAL"
+CorrectPassword = "ZADA"
 
 loop = 'true'
 while (loop == 'true'):
@@ -165,10 +167,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://www.facebook.com/MR.ZEEKO.PG.KING.FREE.FIRE.LEADER')
+            os.system('xdg-open https://www.facebook.com/hassnainmughal47')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/MR.ZEEKO.PG.KING.FREE.FIRE.LEADER')
+        os.system('xdg-open https://www.facebook.com/hassnainmughal47')
 
 
 
