@@ -22,7 +22,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 Mirza.py')
+    os.system('Then type: python2 boss')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -38,9 +38,9 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
 br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 
-def keluar()
-  print 'Thanks.'
-  os.sys.exit()
+def keluar():
+	print 'Thanks.'
+	os.sys.exit()
 
 def acak(b):
     w = 'ahtdzjc'
@@ -166,10 +166,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://www.facebook.com/hassnainmughal47')
+            os.system('xdg-open https://www.facebook.com/MR.ZEEKO.PG.KING.FREE.FIRE.LEADER')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/hassnainmughal47')
+        os.system('xdg-open https://www.facebook.com/MR.ZEEKO.PG.KING.FREE.FIRE.LEADER')
 
 
 
